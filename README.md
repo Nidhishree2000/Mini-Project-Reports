@@ -1,1 +1,1 @@
-# Minni-Project-Reports
+# Mini-Project-Reports
